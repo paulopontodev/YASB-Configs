@@ -10,3 +10,8 @@ Os arquivos (.env | config.yaml | style.css) devem ser colocados em:
 
 ```txt
 C:\Users\nome_do_seu_usuario\.config\yasb
+```
+
+### Caminho alternativo para a pasta de usuário
+```txt
+Win + R > %USERPROFILE%
